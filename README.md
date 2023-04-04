@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently doing a data science bootcamp with Le Wagon<br>👯 I’ll be looking to get involved in new projects and gain hands on experience from April<br>🌱 I’m currently learning Python<br>⚡ Fun fact : I own / run a sailing school and beach club in the south of France<br>💬 Ask me about anything you want. Within reason...
+🔭 Just completed a data science bootcamp with Le Wagon<br>👯 Looking to get involved in new projects and gain hands on experience<br>🌱 New skills include : Python, Python, SQL, Numpy, Pandas, Jupyter Notebooks<br>⚡ Fun fact : I own / run a sailing school and beach club in the south of France<br>💬 Ask me about anything you want. Within reason...
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=upt75&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
