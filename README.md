@@ -1,21 +1,3 @@
-AGRG: Awesome Github Readme Generator
-
-Awesome Github Readme Generator
-Sign In
-
-Awesome Github Profile README.md Generator
-
-Star This Repository
-Fork This Repository
-
-Back To Edit
-
-Copy Markdown
-
-Download Markdown
-
-Download Backup
-
 Preview Markdown
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, my name's Alex Lalljee</h1>
