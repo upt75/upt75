@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Data Analyst based in France</h3>
 
 - 📫 Reach me **through Linkedin**
-- 👨‍💻 Some of my projects are available at **github repo**
+- 👨‍💻 Some of my projects are available at **https://upt75.github.io/alexlalljee/**
 - ⚡ Fun fact **I also run a sailing school**
 
 <div> <a href="https://www.linkedin.com/in/alexlalljee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
